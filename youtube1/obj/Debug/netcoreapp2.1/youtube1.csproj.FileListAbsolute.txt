@@ -1,0 +1,11 @@
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\bin\Debug\netcoreapp2.1\youtube1.deps.json
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\bin\Debug\netcoreapp2.1\youtube1.runtimeconfig.json
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\bin\Debug\netcoreapp2.1\youtube1.runtimeconfig.dev.json
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\bin\Debug\netcoreapp2.1\youtube1.dll
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\bin\Debug\netcoreapp2.1\youtube1.pdb
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\obj\Debug\netcoreapp2.1\youtube1.csprojAssemblyReference.cache
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\obj\Debug\netcoreapp2.1\youtube1.csproj.CoreCompileInputs.cache
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\obj\Debug\netcoreapp2.1\youtube1.AssemblyInfoInputs.cache
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\obj\Debug\netcoreapp2.1\youtube1.AssemblyInfo.cs
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\obj\Debug\netcoreapp2.1\youtube1.dll
+C:\Users\Selahattin\Desktop\youtubeurl\youtube1\obj\Debug\netcoreapp2.1\youtube1.pdb
