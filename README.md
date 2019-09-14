@@ -1,5 +1,5 @@
-# Youtub2e-Api
-This is 'How to take data from the youtube data v3 api' ith c#.You must download youtubedatav3 api to NuGet packages.
+# Youtube-Api
+This is 'How to take data from the youtube data v3 api' with c#.You must download youtubedatav3 api to NuGet packages.
 
 You can take your api key with creating an account on https://developers.google.com/youtube/v3/
 
